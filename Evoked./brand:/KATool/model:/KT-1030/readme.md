@@ -8,4 +8,4 @@ model:
 sch:
 - https://www.google.com/search?q=KATool+KT1030
 - https://www.google.com/search?q=KATool+KT1030P
-
+- https://www.google.com/search?q=KATool+KT-1030P
